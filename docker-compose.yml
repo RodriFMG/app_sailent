@@ -11,6 +11,6 @@
        - 8080:80
 
    webbonita:
-     build: ./salient
+     build: ./sailent
      ports:
        - 8081:80
